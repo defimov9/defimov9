@@ -1,6 +1,8 @@
 # Привет, меня зовут Денис Ефимов 👋
 
----
+## 📞 Связь со мной
+- ![Telegram](https://img.shields.io/badge/Telegram-%40densa322-blue)
+- ![Email](https://img.shields.io/badge/Email-defimov99%40yandex.ru-red)
 
 ## 📈 Цели на будущее:
 
