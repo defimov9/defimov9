@@ -1,9 +1,5 @@
 # Привет, меня зовут Денис Ефимов 👋
 
-## 📞 Связь со мной
-- ![Telegram](https://img.shields.io/badge/Telegram-%40densa322-blue)
-- ![Email](https://img.shields.io/badge/Email-defimov99%40yandex.ru-red)
-
 ## 📈 Цели на будущее:
 
 - 💼 Участвовать в реальных, значимых проектах, где смогу применить свои навыки
@@ -12,7 +8,6 @@
 - 🎓 Стать экспертом в области фронтенд разработки
 
 ## 🛠️ Мой стек:
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30" height="30"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="30" height="30"/>&nbsp
@@ -25,6 +20,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="30" height="30"/>&nbsp;
 </div>
+
+## 📞 Связь со мной
+- ![Telegram](https://img.shields.io/badge/Telegram-%40densa322-blue)
+- ![Email](https://img.shields.io/badge/Email-defimov99%40yandex.ru-red)
 
 ## Статистика GitHub
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=defimov9&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
