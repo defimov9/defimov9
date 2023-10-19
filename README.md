@@ -28,6 +28,3 @@
 ## Статистика GitHub
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=defimov9&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=defimov9&layout=compact&theme=radical)
-## 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/densa322/badges/large)
